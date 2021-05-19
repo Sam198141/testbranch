@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("========================>master");
+		System.out.println("========================>master1");
 	}
 
 }
