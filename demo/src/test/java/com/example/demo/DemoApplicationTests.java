@@ -9,9 +9,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		System.out.println("========================>dev test3");
-		System.out.println("========================>dev");
-		System.out.println("緊急上線");
+		System.out.println("========================>dev 1");
 	}
 
 }
