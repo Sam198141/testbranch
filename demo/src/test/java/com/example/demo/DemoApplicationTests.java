@@ -9,9 +9,8 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-        System.out.println("========================>dev 3");
-		System.out.println("========================>online 1");
-		System.out.println("========================>add new");
+        System.out.println("========================>dev 1");
+		
 	}
 
 }
