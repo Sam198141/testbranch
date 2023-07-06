@@ -10,6 +10,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
         System.out.println("========================>dev 繼續開發2");
+        System.out.println("========================>dev 2");
 	}
 
 }
